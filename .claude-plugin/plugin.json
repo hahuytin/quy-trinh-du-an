@@ -1,0 +1,12 @@
+{
+  "name": "quy-trinh-du-an",
+  "description": "Quy trình quản lý dự án với Claude Code bằng tiếng Việt: /khoi-tao bàn định hướng và dựng bộ file dự án, rồi mỗi buổi /bat-dau → (giao Codex hoặc Claude code) → /ket-thuc. Trạng thái nằm trong file của kho, không nằm trong chat.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hahuytin"
+  },
+  "homepage": "https://github.com/hahuytin/quy-trinh-du-an",
+  "repository": "https://github.com/hahuytin/quy-trinh-du-an",
+  "license": "MIT",
+  "keywords": ["quy-trinh", "quan-ly-du-an", "backlog", "codex", "tieng-viet"]
+}
